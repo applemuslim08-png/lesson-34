@@ -41,6 +41,25 @@
         text-align: start;
         margin: 40px 30px;
     }
+    .photo{
+     flex-wrap: wrap;   
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    }
+    .stl{
+        width: 140px;
+        height: 190px;
+    }
+    .tt7{
+            font-size: 20px;
+    margin: 10px 0px;
+    }
+    .wb{
+            margin-top: 20px;
+   padding: 15px 70px;
+  margin: 20px 80px;
+    }
 }
 
 
