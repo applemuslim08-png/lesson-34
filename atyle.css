@@ -14,6 +14,9 @@
         color: white;
         margin: 35px 35px;
     }
+    .bm{
+        display: none;
+    }
     .tt2{
         font-size: 40px;
         font-family: sans-serif;
@@ -79,4 +82,26 @@
    padding: 10px 70px;
    margin-left: 620px;
    border: none;
+}
+.foter{
+    margin-top: 50px;
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+.tt8{
+margin: 90px 120px;
+}
+.tt9{
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-family: sans-serif;
+
+}
+.fb{
+    padding: 12px 40px;
+    border: none;
+    margin-top: 180px;
+
 }

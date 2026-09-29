@@ -60,6 +60,29 @@
    padding: 15px 70px;
   margin: 20px 80px;
     }
-}
+
+    .foter{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        margin: none;
+    }
+    .fimg{
+        width: 390px;
+    }
+    .tt8{
+        width: 100%;
+        margin: 10px 0px;
+       
+    }
+    .fb{
+       width: 100%;
+      
+            
+    }
+       
+    }
+
+
 
 
