@@ -30,6 +30,23 @@
         font-size: 18px;
         font-weight: 60px;
     }
-    .img{
 
-    }
+.tt4{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 90px;
+}
+.ret{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.ww{
+    width: 250px;
+}
+.tt5{
+    font-size: 25px;
+    padding: 5px 0px;
+    margin-bottom: 10px;
+}
