@@ -1,0 +1,35 @@
+    *{
+        margin: 0px;
+    }
+
+    .sec1{
+        background-color: #2A254B;
+        margin: 30px 80px;
+    }
+    .sec2{
+        display: flex;
+        justify-content: space-between;
+    }
+    .tt1{
+        color: white;
+        margin: 35px 35px;
+    }
+    .tt2{
+        font-size: 40px;
+        font-family: sans-serif;
+    }
+    .btt{
+        margin-top: 35px;
+        color: white;
+        background-color: #F9F9F926;
+        padding: 15px 45px;
+        border: none;
+    }
+    .tt3{
+        margin-top: 250px;
+        font-size: 18px;
+        font-weight: 60px;
+    }
+    .img{
+
+    }
